@@ -12,6 +12,7 @@
 		564A555D1E67018200CD8A60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 564A555B1E67018200CD8A60 /* Main.storyboard */; };
 		564A555F1E67018200CD8A60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 564A555E1E67018200CD8A60 /* Assets.xcassets */; };
 		564A55621E67018200CD8A60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 564A55601E67018200CD8A60 /* LaunchScreen.storyboard */; };
+		564A556A1E670B5800CD8A60 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 564A55691E670B5800CD8A60 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		564A555E1E67018200CD8A60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		564A55611E67018200CD8A60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		564A55631E67018200CD8A60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		564A55691E670B5800CD8A60 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				564A55591E67018200CD8A60 /* ViewController.swift */,
 				564A555B1E67018200CD8A60 /* Main.storyboard */,
 				564A555E1E67018200CD8A60 /* Assets.xcassets */,
+				564A55691E670B5800CD8A60 /* pokemon.csv */,
 				564A55601E67018200CD8A60 /* LaunchScreen.storyboard */,
 				564A55631E67018200CD8A60 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				564A55621E67018200CD8A60 /* LaunchScreen.storyboard in Resources */,
 				564A555F1E67018200CD8A60 /* Assets.xcassets in Resources */,
+				564A556A1E670B5800CD8A60 /* pokemon.csv in Resources */,
 				564A555D1E67018200CD8A60 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				564A55681E67018200CD8A60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
